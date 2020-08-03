@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "769383F6-0AC9-48A5-82AC-3163D12422BA"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "425FCFE7-37BA-4781-A46E-710779D191C5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BaseBridge/WebViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "webView(_:didFailProvisionalNavigation:withError:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C2946BF4-1074-4ED1-B6FC-C518AD9404EE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BaseBridge/TipHud.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "hideTips()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C2946BF4-1074-4ED1-B6FC-C518AD9404EE - 79ae216ecb44c11a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BaseBridge.TipHud.hideTips() -&gt; ()"
+                  moduleName = "BaseBridge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suxiaohong/Documents/yuxin/IOS%E7%9B%B8%E5%85%B3/BaseBridge/BaseBridge/TipHud.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "135">
+               </Location>
+               <Location
+                  uuid = "C2946BF4-1074-4ED1-B6FC-C518AD9404EE - c0711108b4a8f8ba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in BaseBridge.TipHud.hideTips() -&gt; ()"
+                  moduleName = "BaseBridge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suxiaohong/Documents/yuxin/IOS%E7%9B%B8%E5%85%B3/BaseBridge/BaseBridge/TipHud.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "41">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
